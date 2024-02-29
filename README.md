@@ -12,3 +12,5 @@ Project that simulates a calculator using (HTML, CSS and JavaScript).
 - CodeCov: Code coverage report
 - GitHub Actions (CI/CD): Continuous integration and delivery by
   automating code modifications, testing, and streamlined deployment processes.
+
+  ![image](https://github.com/sullyanoo/CrudPython/blob/main/img/interface.png)
