@@ -2,9 +2,15 @@
 
 ![Static Badge](https://img.shields.io/badge/language-JavaScript%20v3.11%5E-ffeb2a)
 
+
+
 ## Description
 
 Project that simulates a calculator using (HTML, CSS and JavaScript).
+
+## Observation
+
+Change the CSS and JS files to their respective url
 
 ### Tools
 
