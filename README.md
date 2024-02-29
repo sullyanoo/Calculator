@@ -13,4 +13,4 @@ Project that simulates a calculator using (HTML, CSS and JavaScript).
 - GitHub Actions (CI/CD): Continuous integration and delivery by
   automating code modifications, testing, and streamlined deployment processes.
 
-  ![image](https://github.com/sullyanoo/CrudPython/blob/main/img/interface.png)
+  ![image](https://github.com/sullyanoo/Calculator/blob/main/img/calc.png)
