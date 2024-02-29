@@ -1,4 +1,4 @@
-# API Python and framework Flask
+# Calculator
 
 ![Static Badge](https://img.shields.io/badge/language-JavaScript%20v3.11%5E-ffeb2a)
 
